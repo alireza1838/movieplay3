@@ -1,0 +1,9 @@
+:root{
+    --main_color:#03001C ;
+    --design_color:#b6eada ;
+    --second_color:#301e67 ;}
+    body{
+        height: 100vh;
+        direction: rtl;
+        background-color: var(--main_color);
+    }
